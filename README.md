@@ -1,16 +1,14 @@
-### Hi there 👋
+### ENG
+Hello everyone!👋👋🏻👋🏿👋🏼👋🏽👋🏾
 
-<!--
-**Surof1n/Surof1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My name is Maxim, my standard nickname is Surof1n, the same as on Github ⚙
 
-Here are some ideas to get you started:
+- I post my work on frontend development and layout of website, I will use this to get a job! 🖥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Wish me luck 🤞🐱‍👤
+
+- My projects: 📖
+
+https://surof1n.github.io/ - my first layout of website.
+
+
