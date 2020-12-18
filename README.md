@@ -13,7 +13,7 @@ https://surof1n.github.io/ - my first layout of website.
 
 ### RU
 
-Всем привет!
+Всем привет! 👋👋🏻👋🏿👋🏼👋🏽👋🏾
 
 -Меня зовут Максим, мой стандартный ник это Surof1n, такой же как на Github ⚙
 
