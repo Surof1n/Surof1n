@@ -15,8 +15,6 @@ https://comein.fun/ - website for project Come In 🔥
 
 https://surof1n.github.io/go, https://surof1n.github.io/go/profile.html, https://surof1n.github.io/go/registration.html, https://surof1n.github.io/go/signin.html — project GO Business (https://vk.com/gon1ine)
 
-https://interstudent.factum.agency/
-
 https://remont-v-vanne.ru/
 
 ### Languages & Tools
@@ -40,7 +38,6 @@ https://comein.fun/ - сайт для проекта Come In 🔥
 
 https://surof1n.github.io/go, https://surof1n.github.io/go/profile.html, https://surof1n.github.io/go/registration.html, https://surof1n.github.io/go/signin.html — проект GO Бизнес (https://vk.com/gon1ine)
 
-https://interstudent.factum.agency/
 
 https://remont-v-vanne.ru/
 
