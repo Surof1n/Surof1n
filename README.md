@@ -5,8 +5,6 @@ Hello everyone!👋👋🏻👋🏿👋🏼👋🏽👋🏾
 
 - My projects: 📖
 
-https://surof1n.github.io/ - my first layout of website.
-
 https://comein.fun/ - website for project Come In 🔥
 
 https://surof1n.github.io/go, https://surof1n.github.io/go/profile.html, https://surof1n.github.io/go/registration.html, https://surof1n.github.io/go/signin.html — project GO Business (https://vk.com/gon1ine)
